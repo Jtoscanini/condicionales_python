@@ -27,6 +27,8 @@ def ej1():
     # Compare cual de los dos números es mayor
     # Imprima en pantalla según corresponda
 
+    
+
     # Verifique si el numero_1 positivo, negativo o cero
     # Imprima el resultado en cada caso
 
